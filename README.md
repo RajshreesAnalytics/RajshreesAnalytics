@@ -1,16 +1,35 @@
-## Hi there 👋
+# Rajshree – Data Analytics Portfolio
 
-<!--
-**RajshreesAnalytics/RajshreesAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a data analytics learner focused on solving business problems using data. 
+I build end-to-end analytics projects using Excel, SQL, Power BI and Python.
 
-Here are some ideas to get you started:
+My goal is to transform raw data into meaningful insights that support business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Skills
+Excel  
+SQL  
+Power BI  
+Python  
+Data Cleaning  
+Data Visualization  
+Business Analysis
+
+## Featured Projects
+
+### 1. Sales Performance Dashboard
+Tools: Excel, Power BI, SQL
+
+This project analyzes sales performance across regions, products, and time periods to identify business trends and revenue drivers.
+
+Key Insights:
+- Identified top performing product categories
+- Analyzed regional sales performance
+- Tracked monthly revenue trends
+
+GitHub Project Link:
+(Add your repository link here)
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/rajshree-gupta6121 
+
