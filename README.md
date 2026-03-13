@@ -28,7 +28,8 @@ Key Insights:
 - Tracked monthly revenue trends
 
 GitHub Project Link:
-(Add your repository link here)
+https://github.com/RajshreesAnalytics/sales-performance-dashboard-excel
+https://github.com/RajshreesAnalytics/SQL-Sales-Analysis
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/rajshree-gupta6121 
